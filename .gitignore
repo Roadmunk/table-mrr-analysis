@@ -1,5 +1,6 @@
 # Roadmunk data
 /schema
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
